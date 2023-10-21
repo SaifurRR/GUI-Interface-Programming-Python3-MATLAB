@@ -14,4 +14,4 @@
 ![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/4_Tic_Tac_Toe_GUI.jpg)
 
 ### 6.Number System Base Conversion
-![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/6_Number_System_Base_Conversion.py)
+![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/6_Number_System_Conversion.jpg)
