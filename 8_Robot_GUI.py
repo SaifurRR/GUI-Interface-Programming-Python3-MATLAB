@@ -1,6 +1,6 @@
 """
 This code uses the 'turtle' library to build a Robot with the Python Programming language. 
-The turtle module draws a Robot by assembling each components separately.
+The turtle module draws a Robot by assembling each component separately.
 """
 
 import turtle as t
