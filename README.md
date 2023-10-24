@@ -31,3 +31,5 @@
 ### 10.Sentiment Detector GUI 
 ![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/10_Sentiment_Detector_GUI.jpg)
 
+### 11.Spell Corrector GUI 
+![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/11_Spell_Corrector_GUI.jpg)
