@@ -19,5 +19,11 @@
 ### 6.Number System Base Conversion
 ![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/6_Number_System_Conversion.jpg)
 
+### 7.Encrypt Decrypt Message GUI
+![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/7_Encrypt_Decrypt_msg.jpg)
+
 ### 8.Build Robot with Turtle(Python)
 ![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/8_Robot_GUI.jpg)
+
+### 9.File Explorer GUI 
+![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/9_File_Explorer_GUI.jpg)
