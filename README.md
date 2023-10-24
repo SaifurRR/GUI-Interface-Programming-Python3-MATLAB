@@ -27,3 +27,7 @@
 
 ### 9.File Explorer GUI 
 ![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/9_File_Explorer_GUI.jpg)
+
+### 10.Sentiment Detector GUI 
+![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/10_Sentiment_Detector_GUI.jpg)
+
