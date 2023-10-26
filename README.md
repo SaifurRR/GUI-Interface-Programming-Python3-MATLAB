@@ -37,3 +37,4 @@
 ![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/12_QR_Code_Generator_GUI.jpg)
 
 
+  
