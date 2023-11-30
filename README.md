@@ -36,6 +36,9 @@
 ### 12.QR Code Generator GUI 
 ![ALT TEXT](https://github.com/SaifurRR/GUI_Design_with_Python/blob/main/Images/12_QR_Code_Generator_GUI.jpg)
 
+### GUI_interface_with_Tkinter_1.ipynb
+Text Label, Create Buttons, User Input Textbox, Layouts, Frames, Menus, Mouse Clicks, Dialog Boxes
+
 
   
        
